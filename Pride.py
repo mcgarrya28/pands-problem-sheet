@@ -1,5 +1,5 @@
 ## Read Pride & Prejudice
-# Author: Anthony Mc Garry
+# Author: Anthony Mc Garry.
 
 
 """This code first checks whether the number of command line arguments is equal to 2. If it's not, the code prints an error message and exits.
